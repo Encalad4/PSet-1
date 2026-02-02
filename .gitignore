@@ -1,0 +1,4 @@
+# Mage runtime logs (NO subir)
+volumenes/mage/src/mage_data/default_repo/pipelines/qb_customers_backfill/.logs
+volumenes/mage/src/mage_data/default_repo/pipelines/qb_invoices_backfill/.logs
+volumenes/mage/src/mage_data/default_repo/pipelines/qb_items_backfill/.logs
